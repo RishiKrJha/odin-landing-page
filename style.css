@@ -93,3 +93,27 @@ body {
     height: auto;
     border-radius: 25px;
 }
+
+.info-section h2{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.footer{
+    margin: 0;
+    padding-bottom: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer p{
+    color: white;
+}
+
+.footer p a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
