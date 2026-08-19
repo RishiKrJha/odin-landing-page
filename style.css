@@ -42,6 +42,7 @@ body {
     padding-top: 25px;
     padding-bottom: 64px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .hero-section .left,
@@ -52,6 +53,7 @@ body {
 
 .hero-section .left {
     padding-right: 20px;
+    padding-bottom: 10px;
     display: flex;
     flex-direction: column;
 }
