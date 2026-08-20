@@ -97,6 +97,7 @@ body {
 }
 
 .info-section{
+    padding: 25px 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
